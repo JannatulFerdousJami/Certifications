@@ -16,5 +16,4 @@ Completed an online course on genomic technologies, gaining foundational knowled
 - Applications of genomics in biomedical research
 - Basic concepts of genomic data analysis
 
-## Certificate
-[View Verified Certificate](https://coursera.org/share/99e56e1e17fe57fa4b82ba44df688c7a)
+
