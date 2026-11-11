@@ -1,8 +1,7 @@
 # Introduction to Genomic Technologies
 
 **University:** Johns Hopkins University  
-**Platform:** Coursera  
-**Completed By:** Most. Jannatul Ferdous Jami  
+**Platform:** [Coursera](https://www.coursera.org/) 
 **Completion Date:** December 21, 2023  
 **Certificate ID:** U8MCQ6ATDLRE
 
