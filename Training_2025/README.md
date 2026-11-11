@@ -1,42 +1,48 @@
 
 # Laboratory Techniques in Infectious Diseases
 
-**Training Institution:** Child Health Research Foundation (CHRF)
-
+**Institution:** Child Health Research Foundation (CHRF)  
 **Website:** https://chrfbd.org/
 
-**Hospital Visited:** Bangladesh Shishu Hospital & Institute, Shyamoli, Dhaka
-
+**Hospital Visited:** Bangladesh Shishu Hospital & Institute, Shyamoli, Dhaka  
 **Hospital Website:** https://bshi.gov.bd/
 
-**Department:** Microbiology Laboratory
+**Laboratory Experience:** Microbiology & Molecular Biology Laboratories
 
-**Duration:** 2 Weeks (2–13 March 2025)
+**Duration:** 2 Weeks (2–13 March 2025)  
+**Training Type:** Hands-on Laboratory & Clinical Research Training
 
-**Training Type:** Hands-on Laboratory & Clinical Training
-
+---
 
 ## Training Overview
 
-Successfully completed a two-week hands-on training program organized by Child Health Research Foundation (CHRF), gaining practical exposure to clinical microbiology, molecular diagnostics, and infectious disease laboratory techniques.
+Successfully completed a two-week intensive hands-on training program at Child Health Research Foundation (CHRF), gaining practical experience in clinical microbiology, molecular biology, biochemistry, and infectious disease diagnostics.
 
-## Practical & Clinical Experience
+The training included laboratory-based practical sessions, clinical exposure at Bangladesh Shishu Hospital & Institute, and learning experiences related to pathogen identification, molecular diagnostics, and clinical research.
 
-- Gained practical exposure to microbiology laboratory activities at Bangladesh Shishu Hospital & Institute, Shyamoli.
-- Learned outpatient clinical data collection procedures during hospital visits.
-- Gained hands-on experience in bacterial culture, identification, and microbiological techniques.
-- Practised DNA extraction and PCR-based molecular techniques.
-- Learned laboratory biosafety, clinical sample handling, and antimicrobial susceptibility testing.
-- Developed foundational knowledge of laboratory data interpretation and diagnostic reporting.
+## Technical Skills
 
-## Skills Acquired
+### 1. Microbiology Laboratory
+- Bacterial culture and identification
+- Pathogen identification techniques
+- Antimicrobial susceptibility testing
+- Clinical specimen handling
+- Laboratory biosafety and aseptic techniques
 
-Clinical Microbiology | DNA Extraction | PCR | Bacterial Culture | Antimicrobial Susceptibility Testing | Clinical Data Collection | Laboratory Biosafety
+### 2. Molecular Biology Laboratory
+- DNA extraction
+- Magnetic bead-based RNA extraction
+- Spin column-based RNA extraction
+- Polymerase Chain Reaction (PCR)
+- Reverse Transcription PCR (RT-PCR)
+- Real-Time PCR (qPCR)
+- Gel electrophoresis
+- PCR primer design
 
-## Certificate
 
-[View Training Certificate](CHRF_Laboratory_Training_2025.pdf)
-
-## Training Gallery
-
-Photographs documenting laboratory training and hospital-based learning experiences will be added here.
+### 4. Hospital-Based Clinical Experience
+- Visited Bangladesh Shishu Hospital & Institute, Shyamoli, Dhaka.
+- Learned outpatient clinical data collection procedures.
+- Gained exposure to clinical specimen collection and handling.
+- Learned specimen storage and biobanking principles.
+- Developed an understanding of the connection between laboratory diagnostics and patient care.
